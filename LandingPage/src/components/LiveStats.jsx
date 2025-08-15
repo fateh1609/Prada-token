@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { Users, Coins, ArrowRightLeft } from 'lucide-react';
 import { ethers } from 'ethers';
 
-const pradaContractAddress = '0xeF0169B129E5f66FDfA5cC1631B18CE2Fc6E370B';
+const pradaContractAddress = '0xaF2698782Ed2c0b0d0933D3649beb6Dd38b9f055';
 const pradaAbi = [
   "function totalSupply() view returns (uint256)",
   "function decimals() view returns (uint8)"
